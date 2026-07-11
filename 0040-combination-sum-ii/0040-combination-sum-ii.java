@@ -13,6 +13,8 @@ class Solution {
             if(i>index && candidates[i] == candidates[i-1]){
                 continue;
             }
+            if(candidates[i] > remainingTarget)
+                break;
             currentCombination.add(candidates[i]);
             backtrack(i+1, remainingTarget - candidates[i], currentCombination, candidates);
             currentCombination.remove(currentCombination.size() - 1);
