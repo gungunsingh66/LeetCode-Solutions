@@ -1,12 +1,12 @@
 class Solution {
     List<List<Integer>> answer = new ArrayList<>();
     public void backtrack(int index, int remainingTarget, List<Integer> currentCombination ,int[] candidates){
-        Arrays.sort(candidates);
+        
         if(remainingTarget == 0){
             answer.add(new ArrayList<>(currentCombination));
             return;
         }
-        if(remainingTarget < 0 || index> candidates.length){
+        if(remainingTarget < 0 || index == candidates.length){
             return;
         }
         for(int i = index; i< candidates.length; i++){
@@ -20,6 +20,7 @@ class Solution {
     }
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<Integer> currentCombination = new ArrayList<>();
+        Arrays.sort(candidates);
         backtrack(0, target , currentCombination, candidates);
         return answer;
     }
