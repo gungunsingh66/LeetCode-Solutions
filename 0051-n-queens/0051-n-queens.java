@@ -1,6 +1,6 @@
 class Solution {
     List<List<String>> answer = new ArrayList<>();
-    public boolean isSafe(char[][] board,int row, int col, int n){
+    public boolean isSafe(char[][] board,int row, int col){
         for(int i=row-1; i>=0 ; i--){
             if(board[i][col]=='Q'){
                     return false;
@@ -11,7 +11,7 @@ class Solution {
                     return false;
                 }
         }
-        for(int i = row-1, j=col+1; i>=0  && j<n; i--, j++){ 
+        for(int i = row-1, j=col+1; i>=0  && j<board.length; i--, j++){ 
             if(board[i][j]=='Q' ){
                 return false;
             }
@@ -28,7 +28,7 @@ class Solution {
             return;
         }
         for(int col=0 ; col<n ; col++){
-            if(isSafe(board, row, col, n)){
+            if(isSafe(board, row, col)){
                 board[row][col] = 'Q';
                 backtrack(board, row+1, n );
                 board[row][col] = '.';
