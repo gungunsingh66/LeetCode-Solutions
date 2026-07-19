@@ -14,7 +14,7 @@ class Solution {
     }
     private void backtrack(List<String> currPartition, int index, String s){
         if(index == s.length()){
-            answer.add(new ArrayList(currPartition));
+            answer.add(new ArrayList<>(currPartition));
             return;
         }
         for(int end = index; end < s.length(); end++){
