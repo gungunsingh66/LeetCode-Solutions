@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
