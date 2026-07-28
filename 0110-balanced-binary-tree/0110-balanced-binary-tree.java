@@ -28,7 +28,6 @@ class Solution{
         return 1 + Math.max(leftHeight, rightHeight);
     } 
     public boolean isBalanced(TreeNode root) {
-        if(height(root) == -1) return false;
-        return true;
+        return height(root) != -1;
     }
 }
