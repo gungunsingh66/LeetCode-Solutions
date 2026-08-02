@@ -17,20 +17,23 @@ class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
         Queue<TreeNode> q = new LinkedList<>();
-        if(root == null) return ans;
+        if (root == null)
+            return ans;
         q.offer(root);
         int level = 0;
-        while(!q.isEmpty()){
+        while (!q.isEmpty()) {
             int size = q.size();
             List<Integer> currentLevel = new ArrayList<>();
-            for(int i = 0 ; i<size; i++){
+            for (int i = 0; i < size; i++) {
                 TreeNode current = q.poll();
-                currentLevel.add(current.val);
-                if(current.left != null) q.offer(current.left);
-                if(current.right != null) q.offer(current.right);
-            }
-            if(level%2 != 0){
-                Collections.reverse(currentLevel);
+                if (level % 2 == 0)
+                    currentLevel.addLast(current.val);
+                else
+                    currentLevel.addFirst(current.val);
+                if (current.left != null)
+                    q.offer(current.left);
+                if (current.right != null)
+                    q.offer(current.right);
             }
             level++;
             ans.add(currentLevel);
