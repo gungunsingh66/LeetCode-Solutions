@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Divide and Conquer
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
