@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Game Theory
 |  |
 | ------- |
