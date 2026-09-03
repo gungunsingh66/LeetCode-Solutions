@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -202,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Quicksort
 |  |
 | ------- |
