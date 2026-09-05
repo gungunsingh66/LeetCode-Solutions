@@ -20,17 +20,6 @@ class Solution {
                 return i;
             }
         }
-
         return -1;
-        // int stability = Integer.MAX_VALUE;
-        // int index = -1;
-        // for(int i = 0; i<n ; i++){ 
-        //     if(prefixMax[i] - suffixMin[i] > k) continue;
-        //     if(stability > prefixMax[i] - suffixMin[i]){
-        //         stability = prefixMax[i] - suffixMin[i];
-        //         index = i;
-        //     }
-        // }
-        // return index;
     }
 }
