@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0877-stone-game) |
