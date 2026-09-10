@@ -4,15 +4,13 @@ class Solution {
         for(int i=0; i<points.length; i++){
             int x1 = points[i][0];
             int y1 = points[i][1];
-            double distance = (x1 * x1) + (y1 * y1);
+            int currDist = (x1 * x1) + (y1 * y1);
             if(pq.size() < k){
                 pq.offer(points[i]);
             }else{
                 int[] point = pq.peek();
-                int x = point[0];
-                int y = point[1];
-                double dist = (x*x) + (y*y);
-                if(dist > distance){
+                int farthestDist = point[0] * point[0] + point[1] * point[1];
+                if(farthestDist > currDist){
                     pq.poll();
                     pq.offer(points[i]);
                 }
