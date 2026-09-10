@@ -60,9 +60,8 @@ class Solution {
             ListNode small = pq.poll();
             tail.next = small;
             tail = tail.next;
-            small = small.next;
-            if(small != null){
-                pq.offer(small);
+            if(small.next != null){
+                pq.offer(small.next);
             }
         }
         return dummy.next;
