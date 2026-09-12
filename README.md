@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0875-koko-eating-bananas](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
