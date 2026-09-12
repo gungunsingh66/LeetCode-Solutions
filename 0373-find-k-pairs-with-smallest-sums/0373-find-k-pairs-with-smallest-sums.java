@@ -5,7 +5,7 @@ class Solution {
         for(int i = 0; i < Math.min(k,nums1.length); i++){
             pq.offer(new int[]{i,0}); 
         }
-        while(ans.size() < k){
+        while(!pq.isEmpty() && ans.size() < k){
             int[] index = pq.poll();
             ans.add(Arrays.asList(nums1[index[0]],nums2[index[1]]));
             if(index[1] + 1 < nums2.length){
