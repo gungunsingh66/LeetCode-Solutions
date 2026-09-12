@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
