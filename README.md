@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0763-partition-labels](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## Matrix
 |  |
 | ------- |
@@ -355,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
