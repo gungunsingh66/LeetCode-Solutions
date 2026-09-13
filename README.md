@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -363,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->
