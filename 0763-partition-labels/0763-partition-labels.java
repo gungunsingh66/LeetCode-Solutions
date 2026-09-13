@@ -12,7 +12,6 @@ class Solution {
             end = Math.max(end, last[s.charAt(i)-'a']);
             if(end == i){
                 ans.add(end-start+1);
-                end = 0;
                 start = i + 1;
             }
         }
