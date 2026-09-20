@@ -1,11 +1,9 @@
 class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int n = gas.length;
-        int[] net = new int[n];
         int total = 0;
         for(int i = 0; i < n; i++){
-            net[i] = gas[i] - cost[i];
-            total += net[i];
+            total += gas[i] - cost[i];
         }
         if(total < 0) return -1;
         int tank = 0;
