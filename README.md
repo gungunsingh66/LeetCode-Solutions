@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0763-partition-labels) |
