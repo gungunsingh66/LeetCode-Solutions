@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0763-partition-labels](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0763-partition-labels) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/gungunsingh66/LeetCode-Solutions/tree/master/0394-decode-string) |
 ## Quicksort
 |  |
 | ------- |
